@@ -7,7 +7,7 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: orange
+      primary: deep orange
       accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
@@ -16,7 +16,7 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: orange
+      primary: deep orange
       accent: blue
       toggle:
         icon: material/toggle-switch
@@ -24,6 +24,7 @@ theme:
 
 # Extensions
 markdown_extensions:
+  - abbr
   - footnotes
   # - attr_list
   - pymdownx.arithmatex:
