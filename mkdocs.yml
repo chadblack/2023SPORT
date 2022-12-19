@@ -16,7 +16,7 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: deep orange
+      primary: deep orange 
       accent: blue
       toggle:
         icon: material/toggle-switch
@@ -25,6 +25,7 @@ theme:
 # Extensions
 markdown_extensions:
   - abbr
+  - admonition
   - footnotes
   # - attr_list
   - pymdownx.arithmatex:
