@@ -1,6 +1,11 @@
-site_name: HILA/LAC 484
+site_name: HILA/LAC 484 History of Latin American Sport
 
 theme:
+    features:
+      - navigation.tabs
+      - navigation.tabs.sticky
+      - navigation.expand
+      
     name: 'material'
     palette:
 
@@ -26,7 +31,6 @@ theme:
 markdown_extensions:
   - abbr
   - admonition
-  - def_list
   - footnotes
   # - attr_list
   - pymdownx.arithmatex:
