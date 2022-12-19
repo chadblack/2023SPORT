@@ -1,5 +1,7 @@
 ---
 title: calendar
+hide:
+  - navigation 
 ---
 
 ## Week 1
