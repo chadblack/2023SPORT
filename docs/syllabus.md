@@ -1,6 +1,7 @@
 ---
 hide:
   - navigation
+title: syllabus 
 ---
 
 ### History of Latin American Sport

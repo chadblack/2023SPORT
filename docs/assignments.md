@@ -1,6 +1,7 @@
 ---
 hide:
   - navigation
+tite: Assignments
 ---
 
 Your grade in this course is based on four assignments:
