@@ -1,6 +1,7 @@
 ---
 hide:
-  - navigation 
+  - navigation
+title: assignments
 ---
 
 ## assignments
