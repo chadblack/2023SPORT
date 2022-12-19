@@ -5,4 +5,4 @@ hide:
 title: welcome 
 ---
 
-![[pele-bicicleta.jpg]]
+![[484 Latin American Sport/2023SPORT/docs/img/pele-bicicleta.jpg]]
