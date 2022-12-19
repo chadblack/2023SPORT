@@ -10,8 +10,7 @@ Your grade in this course is based on four assignments:
 
 Each week, students much write a research memo for the day’s reading. Instructions for how to write a research memo are [[resources/how to write a precis and memo|here]]. The purpose of the research memo is to habituate you to thinking historiographically and synthetically about the content across the semester.
 
-!!! note: "Reading and Note-taking Matter"
-    
+!!! note: "Reading and Note-taking Matter" 
     [[Note-taking]] is a skill that you cannot take for granted. This semester, you'll be asked to think by writing often. Taking notes on what you read and synthesizing information into new knowledge is thinking through writing. 
 
 
