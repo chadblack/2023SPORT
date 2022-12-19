@@ -7,7 +7,7 @@ Your grade in this course is based on four assignments:
 
 ### Reading Memos. (25%)
 
-Each week, students much write a research memo for the day’s reading. Instructions for how to write a research memo are [here](http://chadblack.net/LatAmSport2019/memo/). The purpose of the research memo is to habituate you to thinking historiographically and synthetically about the content across the semester.
+Each week, students much write a research memo for the day’s reading. Instructions for how to write a research memo are [[resources/how to write a precis and memo|here]]. The purpose of the research memo is to habituate you to thinking historiographically and synthetically about the content across the semester.
 
 !!! note: "Reading and Note-taking Matter"
     
