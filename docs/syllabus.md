@@ -1,10 +1,7 @@
 ---
-title: syllabus
 hide:
-  - navigation 
+  - navigation
 ---
-
-## syllabus
 
 ### History of Latin American Sport
 
@@ -21,7 +18,7 @@ Spring 2023
 
 ### About
 
-Modern organized sports swept to popularity in Latin America in the late nineteenth century first with the region’s elite and middle classes. They mingled with older festival and regional past times such as bull fighting and horse racing, but offered a vision for self improvement, as a civilizing tool, and then later were embraced by the masses. This course will analyze the history of sport in Latin America, from the pre-conquest ball game to modern sports like fútbol (soccer), boxeo (boxing), bésbol (baseball), and as a window to how people imagine themselves, their values, their participation in local and national communities of citizenship, and more. We will also analyze the impact of international sporting events on the region, including the Olympics and the World Cup.
+Modern organized sports swept to popularity in Latin America in the late nineteenth century first with the region’s elite and middle classes. They mingled with older festival and regional past times such as bull fighting and horse racing, but offered a vision for self improvement, as a civilizing tool, and then later were embraced by the masses. This course will analyze the history of sport in Latin America, from the pre-conquest ball game to modern sports like fútbol (soccer), boxeo (boxing), beisbol (baseball), and as a window to how people imagine themselves, their values, their participation in local and national communities of citizenship, and more. We will also analyze the impact of international sporting events on the region, including the Olympics and the World Cup.
 
 ### Readings
 
