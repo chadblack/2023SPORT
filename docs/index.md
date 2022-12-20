@@ -2,7 +2,7 @@
 hide:
  - navigation
  - toc
-title: welcome 
+title: Welcome 
 ---
 
 ![[img/pele-bicicleta.jpg]]
