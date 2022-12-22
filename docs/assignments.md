@@ -44,6 +44,8 @@ Students will write a self-evaluation at the end of the semester evaluating thei
 - **Inquiry:** you've asked questions in and out of class on things you don't understand, or that you're curious about.
 - **Specificity:** you've used specific ideas from the readings and discussions.
 - **Connection:** you've made connections between readings and discussions, and across weeks during the semester.[^1]
+
+
 Students must keep track of each class they miss during the course of the semester for this evaluation.
 
 !!! warning "Keep Track of Your Attendance"
