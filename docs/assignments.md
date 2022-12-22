@@ -1,7 +1,7 @@
 ---
 hide:
   - navigation
-tite: Assignments
+title: Assignments
 tags: assignments
 ---
 

@@ -12,6 +12,7 @@ theme:
       - navigation.tabs
       - navigation.tabs.sticky
       - navigation.expand
+      - navigation.indexes
 
     name: 'material'
     palette:
@@ -73,4 +74,4 @@ nav:
   - Syllabus: syllabus.md
   - Assignments: assignments.md
   - Calendar: calendar.md
-  - Resources: resources/how%20to%20write%20a%20precis%20and%20memo/
+  - Resources: resources/
