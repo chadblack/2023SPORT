@@ -12,7 +12,7 @@ theme:
       - navigation.tabs
       - navigation.tabs.sticky
       - navigation.expand
-      - navigation.indexes
+      
 
     name: 'material'
     palette:
@@ -71,10 +71,10 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Syllabus: 
-    - Course Info: Syllabus/syllabus
-    - Assignments: Syllabus/assignments
-    - Calendar: Syllabus/Calendar
+  - Course Info: syllabus.md  
+  - Assignments: assignments.md
+  - Calendar: calendar.md
+
   - Resources: 
     - How to write a precis and memo: resources/how to write a precis and memo.md
     - An approach to making notes: resources/an approach to making notes.md
