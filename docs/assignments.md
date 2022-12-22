@@ -31,6 +31,29 @@ Each student will write a critical book analysis on a book of their choice. Book
 
 Students will write a final essay based on a prompt provided by the professor, and due during the final exam period. This essay will need citations, and will challenge the student to synthesize the course as a whole.
 
-### Self-Evaluation. (15%)
+!!! tip "Use All Those Well-Made Notes"
+    If you follow [[resources/an approach to making notes|recommendations]] on making notes this semester, you will find this final essay much easier to write at a much higher level. The hard work of synthesizing information into new knowledge, and then communicating it months later, is much easier with notes.
 
-Students will write a self-evaluation at the end of the semester evaluating their own participation and performance. Students must keep track of each class they miss during the course of the semester for this evaluation.
+### Self-Evaluation and Engagement. (15%)
+
+Students will write a self-evaluation at the end of the semester evaluating their own engagement with the class. What does engagement include? Engaging with the class and its materials can take many forms, including but not limited to:
+
+- **Preparation:** you've read the material before coming to class.  
+- **Focus:** you've avoided distractions in class.  
+- **Presence:** you've actively participated in small-group and full-class discussions.  
+- **Inquiry:** you've asked questions in and out of class on things you don't understand, or that you're curious about.
+- **Specificity:** you've used specific ideas from the readings and discussions.
+- **Connection:** you've made connections between readings and discussions, and across weeks during the semester.^[Thanks to [Mark Sample](https://twitter.com/samplereality/status/1564016056208949249) and [Shawn Graham](https://shawngraham.github.io/hist1900/2.Assessment/Assessment/#engagement)for helping reframe my sense of "participation."]
+
+Students must keep track of each class they miss during the course of the semester for this evaluation.
+
+!!! warning "Keep Track of Your Attendance"
+    For your self-evaluation, you will need to list each class meeting that you missed by date. Please keep track of them. Better yet, don't miss class. If you do have to miss class, give me a quick email heads up.
+  
+
+
+
+
+
+
+
