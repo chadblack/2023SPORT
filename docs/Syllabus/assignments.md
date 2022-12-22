@@ -1,6 +1,4 @@
 ---
-hide:
-  - navigation
 title: Assignments
 ---
 
@@ -8,10 +6,10 @@ Your grade in this course is based on four assignments:
 
 ### Reading Memos. (25%)
 
-Students must write a research memo for the day’s reading. Instructions for how to write a research memo are [[resources/how to write a precis and memo|here]]. The purpose of the research memo is to habituate you to thinking historiographically and synthetically about the content across the semester.
+Students must write a research memo for the day’s reading. Instructions for how to write a research memo are [[484LatinAmericanSport/2023SPORT/docs/resources/how to write a precis and memo|here]]. The purpose of the research memo is to habituate you to thinking historiographically and synthetically about the content across the semester.
 
 !!! tip "Reading and Note-taking Matter"
-    [[resources/an approach to making notes |Note-taking]] is a skill that you cannot take for granted. This semester, you'll be asked to think by writing often. Taking notes on what you read and synthesizing information into new knowledge is thinking through writing.  
+    [[484LatinAmericanSport/2023SPORT/docs/resources/an approach to making notes |Note-taking]] is a skill that you cannot take for granted. This semester, you'll be asked to think by writing often. Taking notes on what you read and synthesizing information into new knowledge is thinking through writing.  
 
 ### Mexican Sportsman Paper. (20%)
 
@@ -32,7 +30,7 @@ Each student will write a critical book analysis on a book of their choice. Book
 Students will write a final essay based on a prompt provided by the professor, and due during the final exam period. This essay will need citations, and will challenge the student to synthesize the course as a whole.
 
 !!! tip "Use All Those Well-Made Notes"
-    If you follow [[resources/an approach to making notes|recommendations]] on making notes this semester, you will find this final essay much easier to write at a much higher level. The hard work of synthesizing information into new knowledge, and then communicating it months later, is much easier with notes.
+    If you follow [[484LatinAmericanSport/2023SPORT/docs/resources/an approach to making notes|recommendations]] on making notes this semester, you will find this final essay much easier to write at a much higher level. The hard work of synthesizing information into new knowledge, and then communicating it months later, is much easier with notes.
 
 ### Self-Evaluation and Engagement. (15%)
 
@@ -52,7 +50,7 @@ Students must keep track of each class they miss during the course of the semest
     For your self-evaluation, you will need to list each class meeting that you missed by date. Please keep track of them. Better yet, don't miss class. If you do have to miss class, give me a quick email heads up.
   
 
-[^1]: Thanks to [Mark Sample](https://twitter.com/samplereality/status/1564016056208949249) and [Shawn Graham](https://shawngraham.github.io/hist1900/2.Assessment/Assessment/#engagement)for helping reframe my sense of "participation."
+[^1]: Thanks to [Mark Sample](https://twitter.com/samplereality/status/1564016056208949249) and [Shawn Graham](https://shawngraham.github.io/hist1900/2.Assessment/Assessment/#engagement) for helping reframe my sense of "participation."
 
 
 
