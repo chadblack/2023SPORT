@@ -72,9 +72,9 @@ extra_javascript:
 nav:
   - Home: index.md
   - Syllabus: 
-    - Course Info: syllabus/syllabus.md
-    - Assignments: syllabus/assignments.md
-    - Calendar: syllabus/calendar.md
+    - Course Info: Syllabus/syllabus.md
+    - Assignments: Syllabus/assignments.md
+    - Calendar: Syllabus/calendar.md
   - Resources: 
     - How to write a precis and memo: resources/how to write a precis and memo.md
     - An approach to making notes: resources/an approach to making notes.md
