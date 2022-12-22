@@ -30,7 +30,7 @@ theme:
       primary: deep orange 
       accent: blue
       toggle:
-        icon: material/toggle-switch
+        icon: material/brightness-3
         name: Switch to light mode
 
 # Extensions

@@ -1,8 +1,3 @@
 ---
-hide:
- - navigation
- - toc
-title: Welcome 
+template: home.html
 ---
-
-![[img/pele-bicicleta.jpg]]
