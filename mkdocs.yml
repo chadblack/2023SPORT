@@ -1,4 +1,10 @@
 site_name: HILA/LAC 484 History of Latin American Sport
+site_url: https://chadblack.net/2023SPORT/
+site_author: Chad Black
+site_description: A chad_black production
+
+# Copyright
+copyright: Copyright &copy; 2022 Chad Black 
 
 theme:
     features:
@@ -15,7 +21,7 @@ theme:
       primary: deep orange
       accent: indigo
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/brightness-7
         name: Switch to dark mode
 
     # Dark mode
@@ -60,3 +66,9 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://unpkg.com/mermaid/dist/mermaid.min.js 
+
+nav:
+  - Home: index.md
+  - Syllabus: syllabus.md
+  - Assignments: assignments.md
+  - Calendar: calendar.md

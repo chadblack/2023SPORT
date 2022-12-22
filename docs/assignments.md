@@ -24,6 +24,9 @@ Students will write a paper on the culture of sport in the American Colony in Me
 
 Each student will write a critical book analysis on a book of their choice. Books must cover some aspect of the history of sport and Latin America or Latinx United States.
 
+!!! success "A Good Review"
+    How should you approach writing a book review? The first step is actively read the text. Highlight, review, make synthetic notes. Write a précis paragraph for each chapter. Write a research memo from your notes. Use the chapter structure to guide the structure of your review. Focus on one or two central themes.
+
 ### Final Essay. (20%)
 
 Students will write a final essay based on a prompt provided by the professor, and due during the final exam period. This essay will need citations, and will challenge the student to synthesize the course as a whole.
