@@ -10,7 +10,7 @@ theme:
     custom_dir: docs/overrides
     features:
       - navigation.tabs
-      - navigation.tabs.sticky
+#      - navigation.tabs.sticky
       - navigation.expand
       
 
@@ -71,9 +71,10 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Course Info: syllabus.md  
-  - Assignments: assignments.md
-  - Calendar: calendar.md
+  - Syllabus:
+    - Course Info: syllabus.md  
+    - Assignments: assignments.md
+    - Calendar: calendar.md
 
   - Resources: 
     - How to write a precis and memo: resources/how to write a precis and memo.md
