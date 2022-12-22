@@ -43,13 +43,14 @@ Students will write a self-evaluation at the end of the semester evaluating thei
 - **Presence:** you've actively participated in small-group and full-class discussions.  
 - **Inquiry:** you've asked questions in and out of class on things you don't understand, or that you're curious about.
 - **Specificity:** you've used specific ideas from the readings and discussions.
-- **Connection:** you've made connections between readings and discussions, and across weeks during the semester.^[Thanks to [Mark Sample](https://twitter.com/samplereality/status/1564016056208949249) and [Shawn Graham](https://shawngraham.github.io/hist1900/2.Assessment/Assessment/#engagement)for helping reframe my sense of "participation."]
-
+- **Connection:** you've made connections between readings and discussions, and across weeks during the semester.[^1]
 Students must keep track of each class they miss during the course of the semester for this evaluation.
 
 !!! warning "Keep Track of Your Attendance"
     For your self-evaluation, you will need to list each class meeting that you missed by date. Please keep track of them. Better yet, don't miss class. If you do have to miss class, give me a quick email heads up.
   
+
+[^1]: Thanks to [Mark Sample](https://twitter.com/samplereality/status/1564016056208949249) and [Shawn Graham](https://shawngraham.github.io/hist1900/2.Assessment/Assessment/#engagement)for helping reframe my sense of "participation."
 
 
 
