@@ -74,4 +74,7 @@ nav:
   - Syllabus: syllabus.md
   - Assignments: assignments.md
   - Calendar: calendar.md
-  - Resources: resources/resources.md
+  - Resources: 
+    - How to write a precis and memo: resources/how to write a precis and memo.md
+    - An approach to making notes: resources/an approach to making notes.md
+    - Bibliography of Latin American Sport: resources/bibliography of latin american sport.md
