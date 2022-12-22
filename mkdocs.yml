@@ -20,7 +20,7 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: deep orange
+      primary: black
       accent: indigo
       toggle:
         icon: material/brightness-7
@@ -29,7 +29,7 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: deep orange 
+      primary: black 
       accent: blue
       toggle:
         icon: material/brightness-3
@@ -72,9 +72,9 @@ extra_javascript:
 nav:
   - Home: index.md
   - Syllabus: 
-    - Course Info: Syllabus/syllabus.md
-    - Assignments: Syllabus/assignments.md
-    - Calendar: Syllabus/Calendar.md
+    - Course Info: Syllabus/syllabus
+    - Assignments: Syllabus/assignments
+    - Calendar: Syllabus/Calendar
   - Resources: 
     - How to write a precis and memo: resources/how to write a precis and memo.md
     - An approach to making notes: resources/an approach to making notes.md
