@@ -2,7 +2,6 @@
 hide:
   - navigation
 title: Assignments
-tags: assignments
 ---
 
 Your grade in this course is based on four assignments:
