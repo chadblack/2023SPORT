@@ -23,6 +23,8 @@ Modern organized sports swept to popularity in Latin America in the late ninetee
 
 Students are required to purchase the following texts for this course:
 
+- Burgos Jr., Adrian. *Playing America's Game: Baseball, Latinos, and the Color Line*. Berkeley: University of California Press, 2007.
+- Elsey, Brenda and Joshua Nadael. *Futbolera: A History of Women and sports in Latin America*. Austin: University of Texas Press, 2019.
 
 Other readings will be provided electronically.
 
