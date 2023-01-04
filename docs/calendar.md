@@ -196,6 +196,7 @@ Thursday, May 4, 2023
 **Read:**  
 
 - José Cairus, "Nationalism, Immigration and Identity: The Gracies and the Making of Brazilian Jiu-Jitsu, 1934-1943," *Marital Arts Studies* 9 (2020): 28-42.
+- Listen to [30 for 30 podcast Season 2 Episode 2](https://30for30podcasts.com/episodes/no-rules-birth-ufc/) on the birth of the UFC.
 
 DUE:
 
