@@ -13,7 +13,7 @@ Thursday, January 26, 2023
 
 - Steve Stern, “The Tricks of Time: Colonial Legacies and Historical Sensibilities in Latin America,” _The Princeton University Library Chronicle_ 57.3 (Spring 1996), pp. 371-392.
 
-DUE: 
+DUE: One paragraph précis on Stern.
 
 ## Week 2: Theory and Practice of Sport History
 
@@ -29,7 +29,7 @@ Thursday, February 2, 2023
 - Joseph L Arbena “The Later Evolution of Modern Sport in Latin America: The North American Influence”, _The International Journal of the History of Sport_, 18:3 (2001), 43-58.
 - J.A. Mangan, “The Early Evolution of Modern Sport in Latin America: A Mainly English Middle-Class Inspiration?” _The International Journal of the History of Sport_, 18:3 (2001), 9-42.
 
-DUE:
+DUE: Research memo on Arbena or Mangan.
 
 ## Week 3: Premodern Sport, Ritual, and Leisure
 
@@ -45,7 +45,7 @@ Thursday, February 9, 2023
 - Jorge Cañizares-Esguerra, "SPANISH DECK," in *New World Objects of Knowledge: A Cabinet of Curiosities*, editors Mark Thurner and Juan Pimentel. London: University of London Press, Institute of Latin American Studies, 2021.
 - Isabelle Schürch, "Spectacular Spanish Horses in New Spain," *International Journal of the History of Sport* 37:3-4 (2020): 288-303.
 
-DUE:
+DUE: Using this week's readings, write a one page paper explaining the difference between pre-modern sport and modern sport.
 
 ## Week 4: Transitions I - the 19th century
 
@@ -59,7 +59,7 @@ Thursday, February 16, 2023
 
 - William Beezley, "Bicycles, Modernization, and Mexico" in Joseph L. Arbena, ed. *Sport and Society in Latin America: Diffusion, Dependency, and the Rise of Mass Culture*. New York: Greenwood Press, 1988.
 
-DUE:
+DUE: Research memo on Beezley.
 
 ## Week 5: Transitions II - the New Century
 
@@ -87,7 +87,7 @@ Thursday, March 2, 2023
 
 - Rwany Sibaja, "Anxiety in the Sports Pages: The 'Crises' Narratives of 1950s Argentine Fútbol," *The International Journal of the History of Sport* 37:5-6 (2020): 357-377.
 
-DUE:
+DUE: Research memo on Sibaja. 
 
 ## Week 7: Populism, Sport, and Nation II
 
@@ -101,7 +101,7 @@ Thursday, March 9, 2023
 
 - Lindsey Barrett, Colby Leachman, Claire Lockerby, Steven McMullen, Matthew Schorr, Yuriy Veytskin, “The Soccer War,” at _Soccer Politics Pages_, https://sites.duke.edu/wcwp/research-projects/the-soccer-war/ (This is a very well done undergrad project.)
 
-DUE: 
+DUE: Research memo on Elsey.
 
 ## Week 8: Spring Break!!
 
@@ -116,7 +116,9 @@ Tuesday, March 21, 2023
 
 Thursday, March 23, 2023  
 
-**NO CLASS** -- watch *No Mas* 
+**NO CLASS** 
+
+DUE: Research memo on Casimir. 
 
 ## Week 10: Biésbol/Baseball
 
@@ -143,7 +145,7 @@ Thursday, April 6, 2023
 
 - Celeste González Bustamante, “1968 Olympic Dreams and Tlatelolco Nightmares: Imagining and Imaging Modernity on Television,” _Mexican Studies/Estudios Mexicanos_, 26.1 (2010): 1-30.
 
-DUE:
+DUE: Drawing on this week's articles, write one page on the impact of media on the 1968 Olympics. 
 
 ## Week 12: Military Dictatorships and the Political Use of Sport
 
@@ -158,18 +160,18 @@ Thursday, April 13, 2023
 
 - Jennifer L. Schaefer, “Mapping Politics into the Stadium: Political Demonstrations and Soccer Culture in Buenos Aires, Argentina, 1973–74,” _Journal of Sport History_, 44:2 (2017): 193-208.
 
-DUE:
+DUE: Research memo on de Freitas Couto.
 
 ## Week 13: Women Play Too
 
 Tuesday, April 18, 2023  
 **Read:**  
 
-* Elsey and Nadal *Futbolera!*.
+* Elsey and Nadal *Futbolera*.
 
 Thursday, April 20, 2023  
 
-DUE: 
+DUE: Write a one page response to *Futbolera*.
 
 ## Week 14: Global Sport Capitalism
 
@@ -183,7 +185,7 @@ Thursday, April 27, 2023
 
 - Jason R. Old, "Transnational *Surfistas* and the Development of Nicaragua's Emerald Coast," *The International Journal of the History of Sport* 38:8 (2021): 829-848.
 
-DUE:
+DUE: Write a one-page response to Walters.
 
 ## Week 15: Capoeira and Jujitsu
 
@@ -198,10 +200,8 @@ Thursday, May 4, 2023
 - José Cairus, "Nationalism, Immigration and Identity: The Gracies and the Making of Brazilian Jiu-Jitsu, 1934-1943," *Marital Arts Studies* 9 (2020): 28-42.
 - Listen to [30 for 30 podcast Season 2 Episode 2](https://30for30podcasts.com/episodes/no-rules-birth-ufc/) on the birth of the UFC.
 
-DUE:
-
 ## Week 16: Wrap Up
 
 Tuesday, May 9, 2023
 
-**Final Essay Due:** 
+**Final Essay and Self Evaluation Due:** May 16th.
