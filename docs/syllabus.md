@@ -1,5 +1,5 @@
 ---
-title: Syllabus 
+title: Course Info 
 ---
 
 ### History of Latin American Sport
