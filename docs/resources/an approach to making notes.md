@@ -31,7 +31,7 @@ Okay, given all of that, how **do** you take notes on readings. What is the proc
    
 2. Review your annotations. After you finish reading, go back and review your highlights. Do you see patterns? Rephrase the important ones in your own words, but make sure to include the page number and citation with you notes. Synthesize groups of similar highlights into summary notes, but keep track of the citations. Keep individual notes fairly short and focused. 
 
-3. Write a précis and/or [[resources/how to write a precis and memo|research memo]] based on the notes you've written.  
+3. Write a précis and/or [[484 LatinAmericanSport/2023SPORT/docs/resources/how to write a precis and memo|research memo]] based on the notes you've written.  
 
 There is one exception to my warning against transcription-- and that is in processing primary source material in the archive or afterward. This can be even more true when you're working in multiple languages. But, once transcription is done, the same type of note-taking process needs still to be done, if it isn't incorporated into your transcription. 
 
